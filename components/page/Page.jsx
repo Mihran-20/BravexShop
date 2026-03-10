@@ -1,4 +1,3 @@
-// src/Page.jsx
 import { useRoutes } from "react-router-dom";
 import { privateRoutes, publicRoutes } from "./routes.jsx";
 

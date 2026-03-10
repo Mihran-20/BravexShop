@@ -26,12 +26,12 @@ const Login = () => {
                 window.location.reload();
             } else {
                 setLoginError("Invalid email or password");
-                reset(); // Մաքրում ենք input-ները
+                reset(); 
             }
         } catch (err) {
             console.error("Login error:", err);
             setLoginError("Something went wrong. Please try again.");
-            reset(); // Եթե սխալ է՝ նույնպես մաքրենք
+            reset(); 
         }
     };
 

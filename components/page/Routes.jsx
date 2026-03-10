@@ -1,4 +1,3 @@
-// src/routes.jsx
 import { Navigate } from "react-router-dom";
 import Login from "./Login/Login.jsx";
 import Register from "./register/Register.jsx";
