@@ -8,13 +8,13 @@
 * **Database:** Տվյալների պահպանում լոկալ `db.json` ֆայլում։
 * **UI Components:** Ռեուսաբել (reusable) կոմպոնենտներ՝ Button, Input և այլն։
 
-## 🛠 Տեխնոլոգիաներ
+## Տեխնոլոգիաներ
 * **Frontend:** React.js, Vite
 * **API:** Axios
 * **Form Handling:** React Hook Form
 * **Backend (Mock):** JSON Server
 
-## ⚙️ Ինչպես տեղադրել և միացնել
+## Ինչպես տեղադրել և միացնել
 
 1. Նախ ներբեռնեք գրադարանները.
    ```bash
