@@ -1,0 +1,931 @@
+{
+  "users": [
+    {
+      "id": "5aa7",
+      "Name": "Mihran",
+      "Username": "Hakobyan",
+      "email": "user1233@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "products": [
+    {
+      "image": "/accs1.jpg",
+      "title": "Black T-shirt",
+      "price": "7.42",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "27bc"
+    },
+    {
+      "image": "/accs2.png",
+      "title": "Dark Blue T-shirt",
+      "price": "8.99",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "2600"
+    },
+    {
+      "image": "/accs3.jpg",
+      "title": "Beige T-shirt",
+      "price": "6.50",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "id": "4937"
+    },
+    {
+      "image": "/accs4.jpg",
+      "title": "Blue Short",
+      "price": "10.20",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "5b96"
+    },
+    {
+      "image": "/accs5.jpg",
+      "title": "Steel Gray Shirt",
+      "price": "12.49",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "id": "669e"
+    },
+    {
+      "image": "/accs6.jpg",
+      "title": "Ash Gray T-shirt",
+      "price": "9.70",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "4aff"
+    },
+    {
+      "image": "/accs7.jpg",
+      "title": "Charcoal T-shirt",
+      "price": "10.99",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "953f"
+    },
+    {
+      "image": "/accs8.jpg",
+      "title": "Urban Gray Tee",
+      "price": "11.50",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "15bd"
+    },
+    {
+      "image": "/accs9.jpg",
+      "title": "Storm Gray Tee",
+      "price": "9.85",
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "id": "92e3"
+    },
+    {
+      "image": "/accs10.jpg",
+      "title": "Brown Short",
+      "price": "10.30",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "16fc"
+    },
+    {
+      "image": "/accs11.jpg",
+      "title": "Milky Short",
+      "price": "8.75",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "b0ab"
+    },
+    {
+      "image": "/accs12.jpg",
+      "title": "Shadow Gray Short",
+      "price": "9.95",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "645f"
+    },
+    {
+      "image": "/accs13.jpg",
+      "title": "Smoke Gray T-shirt",
+      "price": "8.60",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "f556"
+    },
+    {
+      "image": "/accs14.jpg",
+      "title": "Brown Shoes",
+      "price": "29.99",
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "id": "6565"
+    },
+    {
+      "image": "/accs15.png",
+      "title": "White Sneakers",
+      "price": "35.20",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "id": "61c1"
+    },
+    {
+      "image": "/accs16.jpg",
+      "title": "Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "01aa"
+    },
+    {
+      "image": "/accs17.jpg",
+      "title": "Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "4932"
+    },
+    {
+      "image": "/accs18.jpg",
+      "title": "Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "567b"
+    },
+    {
+      "image": "/accs19.jpg",
+      "title": "Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "110b"
+    },
+    {
+      "image": "/accs20.jpg",
+      "title": "Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "7ba8"
+    }
+  ],
+  "arrayshirt": [
+    {
+      "image": "/shirt1.jpg",
+      "title": "Classic White Shirt",
+      "price": "14.99",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "2fb5"
+    },
+    {
+      "image": "/shirt2.jpg",
+      "title": "Black Formal Shirt",
+      "price": "17.50",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "244f"
+    },
+    {
+      "image": "/shirt3.jpg",
+      "title": "Sky Blue Casual Shirt",
+      "price": "13.25",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "7ee1"
+    },
+    {
+      "image": "/shirt4.jpg",
+      "title": "Charcoal Gray Shirt",
+      "price": "16.40",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "dce9"
+    },
+    {
+      "image": "/shirt5.jpg",
+      "title": "Olive Green Shirt",
+      "price": "15.00",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "id": "604a"
+    },
+    {
+      "image": "/shirt6.jpg",
+      "title": "Light Pink Shirt",
+      "price": "12.90",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "id": "1f05"
+    },
+    {
+      "image": "/shirt7.jpg",
+      "title": "Beige Summer Shirt",
+      "price": "13.80",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "c8d4"
+    },
+    {
+      "image": "/shirt8.jpg",
+      "title": "Navy Blue Button-Up",
+      "price": "18.25",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "id": "f556"
+    },
+    {
+      "image": "/shirt9.jpg",
+      "title": "Pastel Yellow Shirt",
+      "price": "14.10",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "97b5"
+    },
+    {
+      "image": "/shirt10.jpg",
+      "title": "Slim Fit White Shirt",
+      "price": "16.99",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "52be"
+    },
+    {
+      "image": "/shirt11.jpg",
+      "title": "Gray Checkered Shirt",
+      "price": "17.60",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "2179"
+    },
+    {
+      "image": "/shirt12.jpg",
+      "title": "Burgundy Long Sleeve",
+      "price": "15.45",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "44dc"
+    },
+    {
+      "image": "/shirt13.png",
+      "title": "Mint Green Shirt",
+      "price": "13.75",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "38a8"
+    },
+    {
+      "image": "/shirt14.jpg",
+      "title": "Denim Button Shirt",
+      "price": "19.90",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "b39f"
+    },
+    {
+      "image": "/shirt15.jpg",
+      "title": "Steel Blue Shirt",
+      "price": "14.50",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "id": "2815"
+    },
+    {
+      "image": "/shirt16.jpg",
+      "title": "Forest Green Shirt",
+      "price": "16.20",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "a77c"
+    },
+    {
+      "image": "/shirt17.jpg",
+      "title": "Brick Red Shirt",
+      "price": "15.99",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "d88f"
+    },
+    {
+      "image": "/shirt18.jpg",
+      "title": "Sage Casual Shirt",
+      "price": "12.60",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "id": "2827"
+    },
+    {
+      "image": "/shirt19.jpg",
+      "title": "Light Gray Shirt",
+      "price": "14.40",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "2fc8"
+    },
+    {
+      "image": "/shirt20.jpg",
+      "title": "Classic Black Shirt",
+      "price": "17.25",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "id": "2c04"
+    }
+  ],
+  "productsBags": [
+    {
+      "image": "/bag1.jpg",
+      "title": "Classic Black Tee",
+      "price": "7.42",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "ae6d"
+    },
+    {
+      "image": "/bag2.jpg",
+      "title": "Deep Blue Tee",
+      "price": "8.99",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "2cbe"
+    },
+    {
+      "image": "/bag3.jpg",
+      "title": "Soft Beige Tee",
+      "price": "6.50",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "id": "d87f"
+    },
+    {
+      "image": "/bag4.jpg",
+      "title": "Ocean Blue Shorts",
+      "price": "10.20",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "eb63"
+    },
+    {
+      "image": "/bag5.jpg",
+      "title": "Steel Gray Buttoned Shirt",
+      "price": "12.49",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "id": "4400"
+    },
+    {
+      "image": "/bag6.jpg",
+      "title": "Ashen Gray Tee",
+      "price": "9.70",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "1275"
+    },
+    {
+      "image": "/bag7.jpg",
+      "title": "Charcoal Casual Tee",
+      "price": "10.99",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "9689"
+    },
+    {
+      "image": "/bag8.jpg",
+      "title": "Urban Slate Tee",
+      "price": "11.50",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "e692"
+    },
+    {
+      "image": "/bag9.jpg",
+      "title": "Stormy Gray Tee",
+      "price": "9.85",
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "id": "8dc9"
+    },
+    {
+      "image": "/bag10.jpg",
+      "title": "Rustic Brown Shorts",
+      "price": "10.30",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "id": "387f"
+    },
+    {
+      "image": "/bag11.jpg",
+      "title": "Milky Beige Shorts",
+      "price": "8.75",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "8f03"
+    },
+    {
+      "image": "/bag12.jpg",
+      "title": "Shadow Slate Shorts",
+      "price": "9.95",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "f157"
+    },
+    {
+      "image": "/bag13.jpg",
+      "title": "Smoky Gray Tee",
+      "price": "8.60",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "id": "603d"
+    },
+    {
+      "image": "/bag14.jpg",
+      "title": "Rich Brown Leather Shoes",
+      "price": "29.99",
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "id": "f048"
+    },
+    {
+      "image": "/img10.jpg",
+      "title": "Clean White Sneakers",
+      "price": "35.20",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "id": "4a83"
+    },
+    {
+      "image": "/bag16.jpg",
+      "title": "Midnight Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "1385"
+    },
+    {
+      "image": "/bag17.jpg",
+      "title": "Frosted Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "a4d8"
+    },
+    {
+      "image": "/bag18.jpg",
+      "title": "Iron Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "5fdd"
+    },
+    {
+      "image": "/bag19.jpg",
+      "title": "Dawn Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "6a57"
+    },
+    {
+      "image": "/bag20.jpg",
+      "title": "Vapor Gray Boots",
+      "price": "39.95",
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "id": "8162"
+    }
+  ],
+  "shoesarray": [
+    {
+      "image": "/shoes1.jpg",
+      "title": "Urban Runner X1",
+      "price": "$116",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "id": "1883"
+    },
+    {
+      "image": "/shoes2.jpg",
+      "title": "Black Edge Pro",
+      "price": "$138",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "id": "36c6"
+    },
+    {
+      "image": "/shoes3.jpg",
+      "title": "Retro Street Classic",
+      "price": "$112",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        45
+      ],
+      "id": "ced6"
+    },
+    {
+      "image": "/shoes20.jpg",
+      "title": "Night Glide 2.0",
+      "price": "$152",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "id": "2757"
+    },
+    {
+      "image": "/shoes4.jpg",
+      "title": "White Rush Flex",
+      "price": "$120",
+      "sizes": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "id": "1fe9"
+    },
+    {
+      "image": "/shoes5.png",
+      "title": "Trail Master X",
+      "price": "$148",
+      "sizes": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "id": "41b6"
+    },
+    {
+      "image": "/shoes6.jpg",
+      "title": "Crimson Drive",
+      "price": "$126",
+      "sizes": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "id": "6b26"
+    },
+    {
+      "image": "/shoes7.jpg",
+      "title": "Desert Trekker",
+      "price": "$132",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "id": "9909"
+    },
+    {
+      "image": "/shoes8.jpg",
+      "title": "All-Day Comfort",
+      "price": "$100",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "id": "7cb6"
+    },
+    {
+      "image": "/shoes9.png",
+      "title": "Pure White Classic",
+      "price": "$112",
+      "sizes": [
+        40,
+        41,
+        42
+      ],
+      "id": "b23c"
+    },
+    {
+      "image": "/shoes10.jpg",
+      "title": "Steel Runner",
+      "price": "$130",
+      "sizes": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "id": "1292"
+    },
+    {
+      "image": "/shoes11.jpg",
+      "title": "Bold Move Pro",
+      "price": "$140",
+      "sizes": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "id": "259d"
+    },
+    {
+      "image": "/shoes12.jpg",
+      "title": "Shadow Walk",
+      "price": "$120",
+      "sizes": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "id": "1e41"
+    },
+    {
+      "image": "/shoes13.jpg",
+      "title": "Urban Storm",
+      "price": "$125",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        45
+      ],
+      "id": "f073"
+    },
+    {
+      "image": "/shoes14.jpg",
+      "title": "Deep Trail Hiker",
+      "price": "$135",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        44
+      ],
+      "id": "7c26"
+    },
+    {
+      "image": "/shoes15.jpg",
+      "title": "AirStep Light",
+      "price": "$118",
+      "sizes": [
+        40,
+        41,
+        42
+      ],
+      "id": "defb"
+    },
+    {
+      "image": "/shoes16.png",
+      "title": "Blackout Runner",
+      "price": "$143",
+      "sizes": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "id": "e788"
+    },
+    {
+      "image": "/shoes17.jpg",
+      "title": "Jet Glide Sport",
+      "price": "$122",
+      "sizes": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "id": "b3b8"
+    },
+    {
+      "image": "/shoes18.jpg",
+      "title": "Vintage Soul",
+      "price": "$119",
+      "sizes": [
+        39,
+        40,
+        42,
+        44
+      ],
+      "id": "50d6"
+    },
+    {
+      "image": "/shoes19.jpg",
+      "title": "Royal Asphalt",
+      "price": "$133",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        45
+      ],
+      "id": "c6d6"
+    }
+  ]
+}
